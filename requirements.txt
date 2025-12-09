@@ -1,0 +1,5 @@
+flask==3.0.0
+flask-httpauth==4.8.0
+boto3==1.34.0
+pysnmp==4.4.12
+requests==2.31.0
